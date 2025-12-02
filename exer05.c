@@ -17,7 +17,7 @@ setlocale(LC_ALL, "portuguese");
 
     media = (peso1 + peso2)/2;
 
-    printf("sua media é: %f\n",media);
+    printf("sua media é: %2f\n",media);
 
     system("pause");
     return 0;
